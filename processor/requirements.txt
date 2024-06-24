@@ -1,0 +1,4 @@
+dask[complete]
+pyarrow
+tldextract
+beautifulsoup4
